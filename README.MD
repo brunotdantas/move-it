@@ -65,6 +65,11 @@ Deploy on [Vercel](https://moveit-snowy-eta.vercel.app)
    <img src="https://user-images.githubusercontent.com/60162736/108933226-8a3e2f80-7629-11eb-9f62-02b756c0ac17.png" width="400px">
    <img src="https://user-images.githubusercontent.com/60162736/108933227-8ad6c600-7629-11eb-8345-cf0c203aee46.png" width="400px">
    <img src="https://user-images.githubusercontent.com/60162736/108933228-8ad6c600-7629-11eb-8a19-f81d764eb008.png" width="400px">   
+   
+   ![1_nlw4](https://user-images.githubusercontent.com/19207320/122602476-44c6c780-d049-11eb-9013-749d55fc4b21.gif)
+![2_nlw4](https://user-images.githubusercontent.com/19207320/122602482-46908b00-d049-11eb-99b9-50ef05cacab8.gif)
+
+   
 </div>
 
 ---
