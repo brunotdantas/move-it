@@ -25,14 +25,14 @@
 [Reach me](#mailbox-reach-me)
 
 [Connect with me](#connect-with-me)
-
+ 
 <br>
 
 # :book: Overview
 Based on the pomodoro technique, move.it aims to help people who stay in front of the computer for a long time and end up exercising, challenging the user in a fun way. <br />
 Move.it is an application that is being developed during the Next Level Week # 3 - ReactJs Trail - offered by Rocketseat.
 <h4 align="center"> :construction: 2.0 In development :construction:</h4>
- 
+
 ---
 
 # :pencil: Features
