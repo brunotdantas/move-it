@@ -54,7 +54,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ---
 
 # :eyes: Demo
-Deploy on [Vercel](https://moveit-snowy-eta.vercel.app)
+Deploy on [Vercel](https://move-it-delta-livid.vercel.app/)
 
 ---
 
