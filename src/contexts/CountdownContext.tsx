@@ -21,7 +21,7 @@ export const CountdownContext = createContext({} as CountdownContextData);
 export function CountdownProvider({ children }: CountdownProviderProps) {
     const { startNewChallenge } = useContext(ChallengesContext);
 
-    const TotalMinutes = 1; // variavel que define quantos minutos de foco
+    const TotalMinutes = 25; // variavel que define quantos minutos de foco
 
     const [time, setTime] = useState(TotalMinutes * 60);
     const [isActive, setIsActive] = useState(false);
