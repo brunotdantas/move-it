@@ -131,4 +131,4 @@ $ npm run dev
 ---
 
 >This project was developed with ❤️ by **[Bruno Dantas](https://www.linkedin.com/in/bdantas01/)**,  with the instructor **[Diego Fernandes](https://www.linkedin.com/in/diego-schell-fernandes/)** during the **[Next Level Week #4 - Trilha ReactJS](https://nextlevelweek.com/)** of **[Rocketseat](https://rocketseat.com.br)** 💜<br> 
-If it helped you, give it ⭐, it will help me too 😉. Forked from https://github.com/ojeffpinheiro01/move-it
+If it helped you, give it ⭐, it will help me too 😉. README Forked from https://github.com/ojeffpinheiro01/move-it
